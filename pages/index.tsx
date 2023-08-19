@@ -46,7 +46,7 @@ export default function Home() {
               <Link href="https://github.com/krrishcoder"><AiFillGithub /></Link>
               <Link href="https://twitter.com/Kk612470Kumar"><AiFillTwitterCircle /></Link>
               <Link href="https://www.linkedin.com/in/krishna-kumar-549894219/"><AiFillLinkedin /></Link>
-              <Link href="https://www.instagram.com/krsna.kk/"><AiFillInstagram /></Link>
+{/*               <Link href="https://www.instagram.com/krsna.kk/"><AiFillInstagram /></Link> */}
             </div>
             {/* ! profile image  */}
             {/* <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96">
